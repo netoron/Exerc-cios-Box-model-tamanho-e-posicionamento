@@ -1,0 +1,16 @@
+body {
+    background-image: url(pexels-ricardo-osorno-4656725.jpg);
+}
+h2 {
+    color: dodgerblue;
+    font-family: fantasy;
+}
+a {
+    color: dodgerblue;
+    font-size: 1.5em;
+}
+h3 {
+    color: red;
+    font-size: 1.5em;
+    font-family: fantasy;
+}
